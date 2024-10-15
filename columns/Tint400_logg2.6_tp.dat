@@ -1,4 +1,3 @@
-This file contains the corresponding layer temperatures and pressures, and the altitude and the height of each layer.
 layer   temp.[K]          press.[10^-6bar]        altitude[cm]         height.of.layer[cm]    conv.unstable?[1:yes,0:no]    conv.lapse-rate?[1:yes,0:no]    pl.eff.temp.[K]   
 BOA     4090.26           1e+09                   -2.44286e+08         not_avail.             0                             0                               544.798           
 0       4034.45           8.9568e+08              -2.36621e+08         1.53301e+07            0                             0                               
