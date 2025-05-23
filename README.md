@@ -1,6 +1,6 @@
 # Water World Atmospheric Spectroscopy
 
-*This work was completed by Marcus King as a high school senior year research project, under the mentorship of Dr. Schaefer from Stanford's Planetary Modeling Group.*
+*This work was completed by Marcus King as a high school senior year research project, under the mentorship of Dr. Schaefer from Stanford's Planetary Modeling Group. This project was also presented at the National Junior Science and Humanities Symposium (NJSHS) as well as the International Science and Engineering Fair, linked [here](https://isef.net/project/phys047-identification-of-water-world-exoplanet-tracers).*
 ## Project Summary
 Recent discoveries like GJ 9827 d's water-rich atmosphere [(Piaulet-Ghorayeb et al., 2024)](https://ui.adsabs.harvard.edu/abs/2024ApJ...974L..10P/abstract) have brought to light an understudies class of exoplanets—water worlds. The discover of water in this exoplanet atmosphere simultaneously showed current capabilities while demonstrating a need to understand this type of planet better, as many similar discoveries are soon likely. Our current understanding of these water-worlds is limited by models due to the lack of reliable observations, and this study confronts this problem by developing high-resolution models of these water world atmospheres, their associated spectra, and the implications of this data with regard to exoplanet observations through the identification of tracers.
 
